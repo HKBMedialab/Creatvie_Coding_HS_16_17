@@ -1,12 +1,12 @@
 size(400, 400);
 fill(100,100,200);
-rect(120, 100, 38, 30); // head
+rect(100, 100, 200, 100); // head
 fill(255);
-ellipse(130, 112, 12, 12); // left eye
-ellipse(147, 112, 12, 12); // right eye
+ellipse(150, 135, 30, 30); // left eye
+ellipse(250, 135, 30, 30); // right eye
 
-stroke(255,0,0);
-line(139, 80, 139, 100); //antenna
+strokeWeight(3);
+line(200, 60, 200, 100); //antenna
 
 fill(255,0,0);
-ellipse(139, 80, 6, 6); // antenna
+ellipse(200, 60, 10, 10); // antenna

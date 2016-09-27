@@ -15,7 +15,8 @@ void draw(){
   
   background(200);
   rect(235,180,30,60);
- arc(250, 250, 150, 150, -PI, 0, CLOSE); // Schulter
+ //arc(250, 250, 150, 150, -PI, 0, CLOSE); // Schulter
+  ellipse(250, 250, 150, 150); // Schulter
   ellipse(250,150,100,100); // Kopf
  
   // Gesicht
