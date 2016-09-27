@@ -4,7 +4,7 @@
 *  HKB 16 Parametric Design, MR
 */
 
-int dicke=150;
+int dicke=110;
 
 int mitteX;
 int mitteY;
