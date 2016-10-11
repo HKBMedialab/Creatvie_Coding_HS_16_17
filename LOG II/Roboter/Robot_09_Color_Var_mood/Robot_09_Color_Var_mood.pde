@@ -1,9 +1,7 @@
 /* 
  *  Roboter 08
- 
  *  HSV (Hue Saturation Value) == HSB (Hue Saturation Blackness)
  *  https://en.wikipedia.org/wiki/HSL_and_HSV
- 
  *  HKB 16 Creative Coding, MF
  */
 
@@ -27,7 +25,7 @@ void setup() {
 
 void draw() {
   background(0);
-      stroke(0);
+  stroke(0);
 
   colorMode(HSB);
   fill(mood, intensity, 255);
