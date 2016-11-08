@@ -22,7 +22,6 @@ float [] posy=new float[numRost];
 
 void setup() {
   size(500, 500);
-  pixelDensity(2);
   mitteX=width/2;
   mitteY=height/2;
   
