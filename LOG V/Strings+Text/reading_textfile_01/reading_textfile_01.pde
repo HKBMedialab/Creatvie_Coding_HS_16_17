@@ -1,6 +1,7 @@
 /* 
+*  Text 01
 *  Text einlesen
-*  HKB 16 Creative Coding, MF
+*  HKB 16 CC, MF
 */
 String[] lines;
 int index = 0;
